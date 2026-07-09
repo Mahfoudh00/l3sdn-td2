@@ -28,3 +28,12 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+# Fichiers de travail personnels — jamais sur GitHub (dépôt public)
+CLAUDE.md
+build_carousel.py
+post_*.py
+photos/
+fonts/
+output/
+__pycache__/
