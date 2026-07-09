@@ -31,6 +31,8 @@ coverage
 
 # Fichiers de travail personnels — jamais sur GitHub (dépôt public)
 CLAUDE.md
+STRATEGIE.md
+README_daizo.md
 build_carousel.py
 post_*.py
 photos/
